@@ -93,7 +93,7 @@ chirag = {
 
 ## 🚀 Featured Projects
 
-### 🏎️ [PitWall — AI Race Engineer for F1 Telemetry](https://github.com/chirag3206/PitWall)
+### 🏎️ [PitWall — AI Race Engineer for F1 Telemetry](https://github.com/chirag3206/PITWALL)
 > RAG + QLoRA · LLM Fine-tuning · Telemetry Intelligence
 
 Fine-tuned **Qwen 2.5 3B** on 2,000+ F1 Q&A samples over a 462MB+ telemetry corpus. Built a RAG pipeline for real-time race scenario retrieval with intent detection across 409+ evaluated queries.
