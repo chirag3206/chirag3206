@@ -102,7 +102,7 @@ Fine-tuned **Qwen 2.5 3B** on 2,000+ F1 Q&A samples over a 462MB+ telemetry corp
 
 ---
 
-### 🔍 [CrimeScrape — NCRB Crime Analysis & Prediction](https://github.com/chirag3206/CrimeScrape)
+### 🔍 [CrimeScrape — NCRB Crime Analysis & Prediction](https://github.com/chirag3206/CrimeScape)
 > Predictive Analytics · LSTM · GNN · Autoencoders
 
 8+ ML/DL models built over 100K+ NCRB records for hotspot detection and trend forecasting. Models include LSTM, ANN, GNN, and Autoencoders with advanced feature engineering.
@@ -111,7 +111,7 @@ Fine-tuned **Qwen 2.5 3B** on 2,000+ F1 Q&A samples over a 462MB+ telemetry corp
 
 ---
 
-### 🧠 [Brain Tumor Classification — MRI Deep Learning](https://github.com/chirag3206/brain-tumor-classification)
+### 🧠 [Brain Tumor Classification — MRI Deep Learning](https://github.com/chirag3206/Brain-Tumor-Detection)
 > CNN · Vision Transformer · SVM · Medical Imaging
 
 Multi-architecture benchmarking over 7,500+ MRI scans using HOG + Gabor feature extraction. Compared SVM vs CNN vs ViT for classification performance.
@@ -120,7 +120,7 @@ Multi-architecture benchmarking over 7,500+ MRI scans using HOG + Gabor feature 
 
 ---
 
-### 📈 [AI Stock Market Prediction System](https://github.com/chirag3206/stock-prediction)
+### 📈 [AI Stock Market Prediction System](https://github.com/chirag3206/Stock-Price-Prediction)
 > XGBoost · FinBERT · NLP Sentiment · Signal Generation
 
 Hybrid ML system fusing 7+ years of historical price data with live news sentiment via FinBERT. Generates automated Buy/Sell/Hold signals using RSI, MACD, and SMA indicators.
