@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chirag3206&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
   &nbsp;
-  <a href="https://linkedin.com/in/chirag-jindal">
+  <a href="www.linkedin.com/in/chirag-jindal-baa296276">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -23,13 +23,13 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="YOUR_PORTFOLIO_LINK">
+  <!-- <a href="YOUR_PORTFOLIO_LINK">
     <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="YOUR_RESUME_LINK">
     <img src="https://img.shields.io/badge/Resume-00E676?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 </div>
@@ -43,27 +43,11 @@ chirag = {
     "name"     : "Chirag Jindal",
     "based_in" : "Gurgaon, India",
     "contact"  : "jindalchirag57@gmail.com  |  +91-9599631949",
-    "domains"  : ["Predictive Analytics", "Deep Learning", "NLP & LLMs", "Computer Vision"],
-    "currently": "Fine-tuning LLMs · Exploring MLOps · Building scalable AI pipelines",
-    "ask_me_about": ["ML model design", "RAG pipelines", "telemetry intelligence", "data systems"],
+    "domains"  : ["Predictive Analytics", "Deep Learning", "NLP & LLMs", "Computer Vision"]
 }
 ```
 
----
 
-## ⚡ By the Numbers
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| 🗃️ **100K+** Crime records analyzed | 🧠 **7,500+** MRI images classified |
-| 📡 **462 MB+** F1 telemetry processed | 🎯 **89–93%** Peak model accuracy |
-| 📉 **29.07%** Hallucination reduction (RAG) | ⚙️ **40%** UI perf gain @ production |
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -166,8 +150,44 @@ Hybrid ML system fusing 7+ years of historical price data with live news sentime
 
 </div>
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chirag3206&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ---
 
+## 🏆 Coding Platforms
+
+<div align="center">
+<!--
+### ⚡ LeetCode
+ Paste your LeetCode username where it says YOUR_LEETCODE_USERNAME 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+
+</div>
+
+<br>
+
+<div align="center">   -->
+
+### 🥋 Coding Blocks
+[![CodingNinjas](https://img.shields.io/badge/Coding%20Ninjas-View%20Profile-FF6B35?style=for-the-badge&logoColor=white)](https://codeskiller.codingblocks.com/users/416482)
+
+</div>
+
+<br>
+
+<div align="center">
+<!--
+### 🔬 Kaggle
+[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE_USERNAME)
+-->
+</div>
+
+
+<!--
 ## 📚 Currently Exploring
 
 ```
@@ -178,6 +198,7 @@ Hybrid ML system fusing 7+ years of historical price data with live news sentime
 ```
 
 ---
+-->
 
 ## 🎯 Interests
 
