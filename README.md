@@ -96,6 +96,16 @@ chirag = {
 
 ## 🚀 Featured Projects
 
+
+### 📈 [AI Stock Market Prediction System](https://github.com/chirag3206/Stock-Price-Prediction)
+> XGBoost · FinBERT · NLP Sentiment · Signal Generation
+
+Hybrid ML system fusing 7+ years of historical price data with live news sentiment via FinBERT. Generates automated Buy/Sell/Hold signals using RSI, MACD, and SMA indicators.
+
+`+20% prediction reliability` · `Short & long-term signal generation`
+
+---
+
 ### 🏎️ [PitWall — AI Race Engineer for F1 Telemetry](https://github.com/chirag3206/PITWALL)
 > RAG + QLoRA · LLM Fine-tuning · Telemetry Intelligence
 
@@ -123,22 +133,13 @@ Multi-architecture benchmarking over 7,500+ MRI scans using HOG + Gabor feature 
 
 ---
 
-### 📈 [AI Stock Market Prediction System](https://github.com/chirag3206/Stock-Price-Prediction)
-> XGBoost · FinBERT · NLP Sentiment · Signal Generation
-
-Hybrid ML system fusing 7+ years of historical price data with live news sentiment via FinBERT. Generates automated Buy/Sell/Hold signals using RSI, MACD, and SMA indicators.
-
-`+20% prediction reliability` · `Short & long-term signal generation`
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-
+<!--
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=chirag3206&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag3206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" />
-
+-->
 </div>
 
 <div align="center">
